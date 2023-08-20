@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(51, 48, 48);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+#search-container {
+  display: flex;
+  justify-content: center;
+  height: 200px;
+}
+
+#search {
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#remove {
+  height: 30px;
+  margin-top: 3px;
+  margin-left: 5px;
+  background-color: red;
+  color: white;
+}
+#submit {
+  height: 30px;
+}
